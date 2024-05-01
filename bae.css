@@ -1,0 +1,23 @@
+body{
+    background-image: url(sec-background.jpg);
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+.About{
+    background-color: #d63384;
+    border: 1px solid white;
+    margin-top: 20%;
+    border-radius: .7rem;
+    border: 2px solid black;
+}
+.about-him{
+    font-size: 16px;
+}
+.image{
+    width: 50%;
+    height: 50%;
+    clip-path: ;
+}
