@@ -1,0 +1,25 @@
+body{
+    background-image: url(background.jpg);
+    display: block;
+    align-items: center;
+    justify-content: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container-fluid{
+
+    max-height: 100vh;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    border-radius: 5px;
+}
+.container{
+    background-color: #d63384;
+    border: 1px solid white;
+    backdrop-filter: blur(10px); 
+    margin: 4rem auto;
+    padding: auto 2rem;
+
+}
