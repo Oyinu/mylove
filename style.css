@@ -24,6 +24,6 @@ body{
     border: 1px solid white;
     backdrop-filter: blur(10px); 
     margin: 4rem auto;
-    padding: auto 2rem;
+    padding: 2rem 2rem;
 
 }

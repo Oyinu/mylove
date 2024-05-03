@@ -6,7 +6,7 @@ body{
     width: 100%;
     height: 100vh;
 }
-.About{
+.About, .second-phase{
     background-color: #d63384;
     border: 1px solid white;
     margin-top: 20%;
@@ -19,5 +19,12 @@ body{
 .image{
     width: 50%;
     height: 50%;
-    clip-path: ;
+    
+}
+.about-relationship, .third-phase{
+    background-color: #cc79a2;
+    border: 1px solid white;
+    margin-top: 20%;
+    border-radius: .7rem;
+    border: 2px solid black;
 }
