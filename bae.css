@@ -6,7 +6,7 @@ body{
     width: 100%;
     height: 100vh;
 }
-.About, .second-phase{
+.About, .second-phase, .forth-phase, .sixth-phase{
     background-color: #d63384;
     border: 1px solid white;
     margin-top: 20%;
@@ -21,10 +21,22 @@ body{
     height: 50%;
     
 }
-.about-relationship, .third-phase{
+.about-relationship, .third-phase, .fifth-phase, #end{
     background-color: #cc79a2;
     border: 1px solid white;
     margin-top: 20%;
     border-radius: .7rem;
     border: 2px solid black;
+}
+img{
+    width: 80%;
+    height: 50%;
+    margin-left: 15%;
+    clip-path: circle();
+}
+.first-pic, .second-pic, .third-pic{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
 }
